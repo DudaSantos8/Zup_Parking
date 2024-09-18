@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: parking_levy
+server:
+  port: 8082
